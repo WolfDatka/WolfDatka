@@ -4,7 +4,7 @@ Hi 👋 My name is WolfDatka
 Software developer (still learning)
 -----------------------------------
 
-I'm learning to bee a software developer i know and learning: Python, C#, HTML, CSS, JavaScript, Java, and other ones as well.
+I'm learning to be a software developer i know and learning: Python, C#, HTML, CSS, JavaScript, Java, and other ones as well.
 
 * ✉️  You can contact me at [protonwofdatka@protonmail.com](mailto:protonwofdatka@protonmail.com)
 * 🧠  I'm learning the languages what i listed before
