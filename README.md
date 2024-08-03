@@ -7,8 +7,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfdatka&show_icons=true&locale=en&layout=compact" alt="wolfdatka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfdatka&show_icons=true&locale=en" alt="wolfdatka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfdatka&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph"  />
 </div>
