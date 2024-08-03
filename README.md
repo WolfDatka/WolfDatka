@@ -10,7 +10,10 @@
 
 <hr>
 
-<h1 align="center">Languages and Tools</h1>
+<div>
+    <h1 align="center">Languages and Tools</h1>
+    <h1 align="center">TODO: lang imgs here</h1>
+</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfdatka&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most used langs"/>
