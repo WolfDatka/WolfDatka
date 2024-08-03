@@ -2,6 +2,8 @@
     <img src="https://komarev.com/ghpvc/?username=wolfdatka&label=Profile%20views&color=0e75b6&style=flat" alt="wolfdatka"/>
 </div>
 
+#
+
 <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=wolfdatka" alt="wolfdatka"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
