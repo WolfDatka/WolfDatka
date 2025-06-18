@@ -1,4 +1,4 @@
-<h1 align="center"><a href="wolfdatka.eu">CHECK OUT MY WEBSITE</a></h1>
+<h1 align="center"><a href="https://wolfdatka.eu">CHECK OUT MY WEBSITE</a></h1>
 
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WolfDatka&theme=dark&hide_border=true&border_radius=15&date_format=%5BY%20%5DM%20j&card_width=500&card_height=200&background=90%2C000000%2CFF0000&fire=EB0000&stroke=FFFFFF10&ring=FFD700&sideNums=8E0000&dates=FFFFFF7C&currStreakNum=FF0000&sideLabels=FFFFFF" alt="GitHub Streak"/></a>
